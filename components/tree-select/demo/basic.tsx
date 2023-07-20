@@ -3,8 +3,8 @@ import { TreeSelect } from 'antd';
 
 const treeData = [
   {
-    value: 'parent 1',
-    title: 'parent 1',
+    value: '北京市',
+    title: '北京市',
     children: [
       {
         value: 'parent 1-0',
